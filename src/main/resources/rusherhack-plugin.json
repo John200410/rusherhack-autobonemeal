@@ -1,8 +1,8 @@
 {
-  "Plugin-Class": "org.example.ExamplePlugin",
+  "Plugin-Class": "org.rusherhack.bonemeal.Plugin",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
-  "Description": "Example rusherhack plugin",
+  "Description": "Automatically use bonemeal on crops",
   "Authors": [
     "John200410"
   ],
